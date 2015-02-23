@@ -1,1 +1,3 @@
-I just had to recreate the repo for assets. Hopefully i can push it to the remote (github.com) without screwing things up because that remote repo already exists and has some stuff in it.
+Why does this git repo keep disappearing??? Recreating it AGAIN from 
+old stuff located in C:\Users\Natty\Desktop\GitForNatty\Assets
+
